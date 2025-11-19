@@ -4,6 +4,7 @@
   "description": "A silver journey project",
   "main": "index.js",
   "scripts": {
+  // Update: commit 22
     "start": "node index.js",
     "test": "jest",
     "dev": "nodemon index.js"
