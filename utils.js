@@ -1,5 +1,5 @@
 // Utility functions
-export function formatDate(date) {
+export function formatDate(date) { // updated
     return date.toISOString().split('T')[0];
 }
 
