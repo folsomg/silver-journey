@@ -2,7 +2,7 @@
 
 A silver journey project
 
-## Installation
+## Installation // updated
 
 \`\`\`bash
 npm install
