@@ -1,0 +1,16 @@
+{
+  "name": "silver-journey",
+  "version": "0.1.0",
+  "description": "A silver journey project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
